@@ -1,0 +1,19 @@
+.basic {
+    background-color: rgb(235, 119, 119);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number-two {
+    color: rgb(98, 0, 255);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#number-four {
+    background: rgb(119, 235, 129);
+    font-size: 24px;
+    font-weight: bold;
+}
